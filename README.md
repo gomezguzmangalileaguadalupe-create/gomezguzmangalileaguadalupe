@@ -21,7 +21,7 @@
   
 - 🌱 **Actualmente estoy aprendiendo:** Profundizando en **Git** y las mejores prácticas de **GitHub**.
   
-- 🧠 **Mi enfoque es:** Aplicar modelos de **Machine Learning** y **Deep Learning** (CNN, RNN, MLP) al análisis de negocio.
+- 🧠 **Mi enfoque es:** Aplicar modelos de **(CNN, RNN, MLP)** al análisis de negocio.
   
 - 👯 **Busco colaborar en:** Proyectos de Ciencia de Datos e IA.
   
